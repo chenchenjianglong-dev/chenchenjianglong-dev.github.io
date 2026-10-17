@@ -1,0 +1,62 @@
+[
+  {
+    "id": "socs2", "year": 2026, "journal": "Biomedicines", "volume": "14", "issue": "9", "article": "2047",
+    "title": "SOCS2 Downregulation Is Associated with a Ferro-Aging-Related Transcriptomic Signature in Proximal Tubular Cells in Chronic Kidney Disease",
+    "authors": ["Bin Xia", "Rujie Zhou", "Jianglong Chen", "Guang Li"], "equal": [0, 1],
+    "role": "合作作者", "lead": false,
+    "doi": "10.3390/biomedicines14092047", "url": "https://www.mdpi.com/2227-9059/14/9/2047",
+    "tags": ["单细胞转录组", "机器学习", "SOCS2"], "category": "omics",
+    "summary": "结合转录组、单细胞数据与机器学习，分析慢性肾脏病中 SOCS2 与近端小管细胞铁衰老相关转录特征的关联。",
+    "note": "关联性与计算分析研究；SOCS2 的因果作用仍需功能实验验证。"
+  },
+  {
+    "id": "arundina-fibrosis", "year": 2026, "journal": "Journal of Inflammation Research", "volume": "19", "article": "579046",
+    "title": "Arundina graminifolia Attenuates Renal Fibrosis in Chronic Kidney Disease by Modulating the TGF-β/PI3K-AKT/mTOR Pathway",
+    "authors": ["Jianglong Chen", "Yunfei Cui", "Rujie Zhou", "Yu Zhu", "Meijia Chen", "Jinhua Su", "Jinhui Wang", "Guang Li"], "equal": [0, 1, 2],
+    "role": "第一作者 · 共同贡献", "lead": true,
+    "doi": "10.2147/JIR.S579046", "url": "https://doi.org/10.2147/JIR.S579046", "pdf": "assets/papers/chen-2026-arundina-fibrosis.pdf",
+    "tags": ["肾纤维化", "TGF-β", "PI3K-AKT/mTOR"], "category": "natural",
+    "summary": "在腺嘌呤诱导的慢性肾脏病小鼠模型中，研究白羊解提取物对肾纤维化及 TGF-β/PI3K-AKT/mTOR 通路的影响。",
+    "note": "结合化学成分分析、网络药理学与动物实验，考察炎症、氧化应激及上皮间质转化相关变化。"
+  },
+  {
+    "id": "esculetin-review", "year": 2026, "journal": "International Journal of Molecular Sciences", "volume": "27", "issue": "12", "article": "5465",
+    "title": "Research Progress on the Treatment of Renal Injury with Esculetin: Multi-Target Pharmacological Mechanism and Clinical Translation Prospect",
+    "authors": ["Rujie Zhou", "Jianglong Chen", "Bin Xia", "Meijia Chen", "Yu Zhu", "Guang Li"], "equal": [0, 1],
+    "role": "共同第一作者", "lead": true,
+    "doi": "10.3390/ijms27125465", "url": "https://www.mdpi.com/1422-0067/27/12/5465",
+    "tags": ["七叶内酯", "肾损伤", "综述"], "category": "natural",
+    "summary": "梳理七叶内酯在肾损伤中的多靶点药理机制，讨论抗炎、抗氧化及细胞死亡调控等研究进展。",
+    "note": "综述既有研究，并讨论后续转化研究所需解决的问题。"
+  },
+  {
+    "id": "baiyangjie-metabolomics", "year": 2026, "journal": "Experimental and Therapeutic Medicine", "volume": "32", "issue": "2", "article": "205",
+    "title": "Integrated network pharmacology and serum metabolomics to reveal the protective mechanism of methanolic extract of BaiYangJie on cisplatin-induced acute kidney injury in mice",
+    "authors": ["Bin Xia", "Jianglong Chen", "Jinhui Wang", "Dalong Li", "Lixia Zhang", "Jing Su", "Xuan Ding", "Yana Lv", "Shifang Liu", "Xue Zhang", "Tianzhen Wan", "Guang Li"], "equal": [0, 1],
+    "role": "共同第一作者", "lead": true,
+    "doi": "10.3892/etm.2026.13199", "url": "https://doi.org/10.3892/etm.2026.13199", "pdf": "assets/papers/xia-chen-2026-metabolomics.pdf",
+    "tags": ["代谢组学", "MIF/NF-κB", "顺铂肾毒性"], "category": "omics",
+    "summary": "整合网络药理学、血清代谢组学与小鼠实验，研究白羊解甲醇提取物对顺铂诱导急性肾损伤的保护机制。",
+    "note": "重点考察 MIF/NF-κB 炎症信号及苯丙氨酸代谢的变化。"
+  },
+  {
+    "id": "kidney-pharmacochemistry", "year": 2026, "journal": "Molecules", "volume": "31", "issue": "11", "article": "1951",
+    "title": "Arundina graminifolia Ameliorates Cisplatin-Induced Acute Kidney Injury via Pathological Targeted Recruitment of Flavonoid Aglycones: A Study Integrating Serum/Kidney Pharmacochemistry and Network Pharmacology",
+    "authors": ["Meijia Chen", "Yu Zhu", "Jianglong Chen", "Rujie Zhou", "Guang Li"], "equal": [0, 1],
+    "role": "合作作者", "lead": false,
+    "doi": "10.3390/molecules31111951", "url": "https://doi.org/10.3390/molecules31111951", "pdf": "assets/papers/chen-2026-kidney-pharmacochemistry.pdf",
+    "tags": ["药物化学", "UPLC-Q-TOF-MS/MS", "黄酮苷元"], "category": "natural",
+    "summary": "通过血清与肾组织药物化学分析，比较白羊解成分在正常与损伤肾脏中的分布，探索潜在药效物质基础。",
+    "note": "结合网络药理学与分子对接分析入肾成分的潜在靶点与信号通路。"
+  },
+  {
+    "id": "esculetin-ckd", "year": 2026, "journal": "Pharmaceuticals", "volume": "19", "issue": "4", "article": "578",
+    "title": "Esculetin Attenuates Inflammation and Fibrosis to Prevent AKI-to-CKD Transition in Adenine-Induced Renal Injury by Inhibiting the EGFR/SRC/PI3K/AKT/NF-κB Signaling Axis",
+    "authors": ["Jianglong Chen", "Bin Xia", "Rujie Zhou", "Yunfei Cui", "Yu Zhu", "Meijia Chen", "Jinhua Su", "Jinhui Wang", "Guang Li"], "equal": [],
+    "role": "第一作者", "lead": true,
+    "doi": "10.3390/ph19040578", "url": "https://www.mdpi.com/1424-8247/19/4/578",
+    "tags": ["七叶内酯", "AKI-to-CKD", "NF-κB"], "category": "natural",
+    "summary": "在腺嘌呤诱导的肾损伤小鼠模型中，研究七叶内酯预防性干预与炎症、纤维化及 EGFR/SRC/PI3K/AKT/NF-κB 信号的关系。",
+    "note": "研究结合网络药理学、转录组学与蛋白表达分析。"
+  }
+]
